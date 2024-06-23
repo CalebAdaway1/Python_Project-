@@ -1,0 +1,22 @@
+
+# This is my attempt at a modula design for my task manager 
+# I haved decided to create a staff and manager rota 
+# This will allow the manager to 
+    # Add - View - Remove shifts 
+    # Add - Remove staff members from the rota 
+    # Review staff queries 
+
+# This will allow the staff to 
+    # View shifts 
+    # Raise queries 
+
+# Both staff and managers will have a staff id 
+# The only thing i belive i need to create is the .txt file and directory 
+# Looking for feedback on what I have created already 
+
+# Corrections 
+    # - added file_access.py, models.py - user.py 
+    # generated requirments.txt while venv is active 
+    # added JSON method to read user data from a file and convert into a list of 'user' objects
+    # moved venv folder into gitignore 
+    # updated Python to 3.12 
